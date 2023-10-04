@@ -44,9 +44,6 @@
 <div align="center">
 <a href="https://github.com/raj1743">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raj1743&theme=algolia" height="180em" />
+  <br><br>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raj1743&theme=algolia" height="180em" />
-
-
-
-
 </div>
