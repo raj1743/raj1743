@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajan Panchal</h1>
-<h3 align="center">👁️ Computer Vision Engineer | 🤖 Machine Learning Enthusiast | 🌐 IoT Explorer
+<h3 align="center">👁️ Computer Vision Engineer | 🤖 Machine Learning Enthusiast | 🌐 IoT Explorer<br><br>
 🔭 Exploring the visual world one pixel at a time! 📸</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raj1743&label=Profile%20views&color=0e75b6&style=flat" alt="raj1743" /> </p>
 
