@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rajan Panchal</h1>
+<h1 align="center">Hi 👋, I'm RAJAN PANCHAL</h1>
 <h3 align="center">👁️ Computer Vision Engineer | 🤖 Machine Learning Enthusiast | 🌐 IoT Explorer<br><br>
 🔭 Exploring the visual world one pixel at a time! 📸</h3>
 
