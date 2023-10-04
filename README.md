@@ -6,6 +6,7 @@
 
 - 🔭 I’m currently working on **Auto Annotation of images for Object Detection**
 - 🌱 I’m currently learning **Computer Vision and ESP-IDF**
+- 📡 When not diving into neural networks, you'll find me in the realm of IoT, passionately tinkering with the ESP-IDF framework to bring smart devices to life, because I believe the future is connected, intelligent, and exciting!
 
 - 📫 How to reach me **rajanp1743@gmail.com**
 
@@ -37,10 +38,15 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj1743&layout=compact&theme=gotham" alt=raj1743 />
 <br></br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 </div>
 <h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/raj1743">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raj1743&theme=algolia" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raj1743&theme=algolia" height="180em" />
+
+
+
+
 </div>
